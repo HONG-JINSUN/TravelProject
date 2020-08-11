@@ -13,7 +13,7 @@
 	<input type="button" value="2호선" onclick="location.href = '2Line.jsp'">
 	<input type="button" value="3호선" onclick="location.href = '3Line.jsp'">
 	<input type="button" value="4호선" onclick="location.href = '4Line.jsp'">
-	<input type="button" value="5호선" onclick="location.href = '5Line.jsp'">
+	<input type="button" value="5호선" onclick="location.href = '5Line.jsp'">1
 
 </body>
 </html>
