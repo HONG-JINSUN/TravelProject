@@ -1,0 +1,70 @@
+button{
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border: 1px
+  solid #000000;
+  background-color: white;
+  color: #000000;
+  padding: 5px;
+}
+button:hover{
+  color:white;
+  background-color: #000000;
+}
+
+.navy{
+  border: 1px
+  solid #000080;
+  background-color: white;
+  color: #000080;
+  padding: 5px; }
+.navy:hover{
+  color:white;
+  background-color: #000080;
+}
+
+.green{
+  border: 1px
+  solid #32CD32;
+  background-color: white;
+  color: #32CD32;
+  padding: 5px; }
+.green:hover{
+  color:white;
+  background-color: #32CD32;
+}
+
+.orange{
+  border: 1px
+  solid #FF4500;
+  background-color: white;
+  color: #FF4500;
+  padding: 5px; }
+.orange:hover{
+  color:white;
+  background-color: #FF4500;
+}
+
+.skyblue{
+  border: 1px
+  solid #00BFFF;
+  background-color: white;
+  color: #00BFFF;
+  padding: 5px; }
+.skyblue:hover{
+  color:white;
+  background-color: #00BFFF;
+}
+
+.puple{
+  border: 1px
+  solid #9932CC;
+  background-color: white;
+  color: #9932CC;
+  padding: 5px; }
+.puple:hover{
+  color:white;
+  background-color: #9932CC;
+}
