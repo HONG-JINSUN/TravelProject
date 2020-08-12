@@ -9,11 +9,11 @@
 <body>
 
 	<input type="button" value="전체" onclick="location.href = 'FLine.jsp'">
-	<input type="button" value="1호선" onclick="location.href = '1Line.jsp'">
-	<input type="button" value="2호선" onclick="location.href = '2Line.jsp'">
-	<input type="button" value="3호선" onclick="location.href = '3Line.jsp'">
-	<input type="button" value="4호선" onclick="location.href = '4Line.jsp'">
-	<input type="button" value="5호선" onclick="location.href = '5Line.jsp'">1
+	<input type="button" class="navy" value="1호선" onclick="location.href = '1Line.jsp'">
+	<input type="button" class="green" value="2호선" onclick="location.href = '2Line.jsp'">
+	<input type="button" class="orange" value="3호선" onclick="location.href = '3Line.jsp'">
+	<input type="button" class="skyblue" value="4호선" onclick="location.href = '4Line.jsp'">
+	<input type="button" class="puple" value="5호선" onclick="location.href = '5Line.jsp'">
 
 </body>
 </html>
