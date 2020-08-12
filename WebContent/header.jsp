@@ -9,7 +9,7 @@
 </head>
 <body>
 
-	<input type="button" class ="navi" value="전체" onclick="location.href = 'FLine.jsp'">
+	<input type="button" class ="navy" value="전체" onclick="location.href = 'FLine.jsp'">
 	<input type="button" class="green" value="2호선" onclick="location.href = '2Line.jsp'">
 	<input type="button" class="orange" value="3호선" onclick="location.href = '3Line.jsp'">
 	<input type="button" class="skyblue" value="4호선" onclick="location.href = '4Line.jsp'">
