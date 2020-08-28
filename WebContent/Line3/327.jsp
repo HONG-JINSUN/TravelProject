@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	경복궁
+경복궁
 </body>
 </html>
